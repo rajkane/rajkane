@@ -1,6 +1,6 @@
 # Hi there 👋
-My name is Daniel. I'm an Engineer of Information and Control Systems.  I'm programming in Python and [Spel+](https://download.epson-europe.com//robotics//share//e_SPEL%2B_Language_Ref_v42_r3.pdf). 
-My most used development tools are IDE PyCharm and IDE Epson RC+. I also focus on vision systems and convolutional neural networks.
+I am a programming enthusiast. I focus on Python programming. I enjoy working with the PyQt5 framework. 
+I have worked on projects where I combined R-CNN (PyTorch) with GUI. Nowadays I have also focused on C++ and the QtCreator IDE.
 - 🔭 I’m currently working on Tatiana project 
 - 🌱 I’m currently learning on threading
 - 📫 How to reach me:
