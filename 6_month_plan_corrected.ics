@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Custom Training Calendar//EN
+BEGIN:VEVENT
+SUMMARY:6-Month Training Plan
+DESCRIPTION:Customized training details as per prior communications.
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260630
+END:VEVENT
+END:VCALENDAR
